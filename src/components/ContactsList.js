@@ -27,3 +27,4 @@ class ContactsList extends Component {
 }
 
 export default ContactsList;
+
